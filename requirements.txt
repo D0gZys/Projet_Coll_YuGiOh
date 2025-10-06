@@ -1,0 +1,14 @@
+# Interface graphique moderne
+customtkinter>=5.2.0
+
+# Base de données
+sqlite3
+
+# Requêtes web pour extraction automatique
+requests>=2.31.0
+
+# Manipulation d'URLs
+urllib3>=1.26.0
+
+# Interface tkinter standard (généralement inclus avec Python)
+tkinter
