@@ -18,3 +18,6 @@ lxml>=4.9.0
 
 # Gestion des images (pour CustomTkinter)
 Pillow>=10.0.0
+
+# Graphiques et visualisations
+matplotlib>=3.7.0
